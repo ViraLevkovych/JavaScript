@@ -7,3 +7,11 @@
 /* this is a
 multi-line comment */
 ```
+
+
+# 2. Variables
+```js
+var a;
+a = 5;
+a = a + 1;
+```
