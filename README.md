@@ -1,5 +1,7 @@
-
+# 0. Links
+[JSFiddle](https://jsfiddle.net/)  
 [CodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+
 
 # 1. Comments
 ```js
