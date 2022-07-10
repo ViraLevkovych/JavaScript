@@ -66,3 +66,6 @@ You can create variables by using:
 * var (basic creation);
 * let (try to use this, it check whether the variable has been used before);
 * const (cannot be changed)
+
+* **The best practice is to use CAPSLOCK for const names**
+* **camelCase for let**
