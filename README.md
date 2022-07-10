@@ -72,4 +72,8 @@ You can create variables by using:
 
 
 # Increment a Number with JavaScript
-i++ is the same as i = i + 1
+i++ is the same as i = i + 1  
+
+
+# Decrement a Number with JavaScript
+i-- is the same as i = i - 1
