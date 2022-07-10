@@ -69,3 +69,7 @@ You can create variables by using:
 
 * **The best practice is to use CAPSLOCK for const names**
 * **camelCase for let**
+
+
+# Increment a Number with JavaScript
+i++ is the same as i = i + 1
