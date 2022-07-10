@@ -77,3 +77,10 @@ i++ is the same as i = i + 1
 
 # Decrement a Number with JavaScript
 i-- is the same as i = i - 1
+
+
+
+# Finding a Remainder in JavaScript
+17 % 2 = 1 (17 is Odd)  
+48 % 2 = 0 (48 is Even)  
+**const remainder = 11 % 3;**
