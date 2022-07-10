@@ -37,3 +37,24 @@ var geographicLocation = "Willow Creeck";
 var jobTitle = "Letsplayer";
 alert ("You will be a " + jobTitle + " in " + geographicLocation + ", and married to " + partnersName + " with " + numberOfChildren + " kids." );
 ```
+
+
+
+
+# Task 1.
+```js
+/*
+Створити дві змінні - імя та прізвище.
+Створити третю змінну - яка буде мати в собі імя і прізвище.
+Створити змінну вік.
+Створити змінну теперішній рік.
+Вивести алерт : Імя та прізвище, рік народження.
+*/
+
+var name = "Vira ";
+var surname = "Levkovych";
+var n_s = name  + "та " + surname;
+var age = 16;
+var year = 2022;
+alert(n_s + ", " + (year - age));
+```
