@@ -58,3 +58,11 @@ var age = 16;
 var year = 2022;
 alert(n_s + ", " + (year - age));
 ```
+
+
+
+# How to create variables
+You can create variables by using: 
+* var (basic creation);
+* let (try to use this, it check whether the variable has been used before);
+* const (cannot be changed)
