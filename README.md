@@ -112,4 +112,18 @@ ThirdLine
 ```
 
 
-const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+```const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";```
+
+# Find the Length of a String
+```js
+Use the .length property to set lastNameLength to the number of characters in lastName.
+
+
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
+alert(lastNameLength);
+```
