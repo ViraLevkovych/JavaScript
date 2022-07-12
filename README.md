@@ -209,3 +209,23 @@ else {
 alert("lol");
 }
 ```
+
+
+```js
+/* if divide 3 write fizz
+if divide 5 buzz 
+if 3 and 5 write fizzbuzz */
+let x = 2;
+let x_3 = x % 3;
+let x_5 = x % 5;
+
+if (x_3 == 0 && x_5 == 0) {
+alert ("fizzbuzz");
+}
+else if (x_5 == 0) {
+alert ("buzz");
+} 
+else if (x_3 == 0) {
+alert("fizz");
+} 
+```
