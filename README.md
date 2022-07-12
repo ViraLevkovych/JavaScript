@@ -127,3 +127,11 @@ const lastName = "Lovelace";
 lastNameLength = lastName.length;
 alert(lastNameLength);
 ```
+
+
+
+# Use Bracket Notation to Find the First Character in a String
+```js
+const firstName = "Charles";
+const firstLetter = firstName[0];
+```
