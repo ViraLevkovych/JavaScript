@@ -135,3 +135,37 @@ alert(lastNameLength);
 const firstName = "Charles";
 const firstLetter = firstName[0];
 ```
+
+
+
+# Task 3.
+```js
+
+/*
+1. Створити константу name.
+create variable age.
+2. Створити константу surname.
+3. Cтворити константу fullname using the previous variable.
+4. Create variable, lengthOfFullName.
+5. Create variable, third character in fullname.
+6. Create variable, остача від ділення довжини імя на 2.
+7. вивести
+
+My name is 'name'.	I am from Lodz.
+	I am 'age' years alt.
+My name length is 'length'.
+My name length remainder / 2 is 'value'\.
+*/
+
+const NAME = "Angelina";
+let age = 47;
+const SURNAME = "Jolie";
+const FULLNAME = NAME + SURNAME;
+let lengthOfFullName = FULLNAME.length;
+let thirdCharInFullname = FULLNAME[2];
+let nameLength = NAME.length;
+let remainderName_2 = nameLength % 2;
+alert(remainderName_2);
+let all = "My name is " + NAME + "." + "\tI am from Los Angeles." + "\n\tI am " + age + " years old." + "\nMy name length is " + nameLength + "." + "\nMy name length remainder / 2 is "  + remainderName_2 + "\\" + "."; 
+alert(all);
+```
