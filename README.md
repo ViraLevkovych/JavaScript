@@ -143,7 +143,7 @@ const firstLetter = firstName[0];
 
 /*
 1. Створити константу name.
-create variable age.
+Create variable age.
 2. Створити константу surname.
 3. Cтворити константу fullname using the previous variable.
 4. Create variable, lengthOfFullName.
@@ -151,7 +151,7 @@ create variable age.
 6. Create variable, остача від ділення довжини імя на 2.
 7. вивести
 
-My name is 'name'.	I am from Lodz.
+My name is 'name'.	I am from Los Angeles.
 	I am 'age' years alt.
 My name length is 'length'.
 My name length remainder / 2 is 'value'\.
