@@ -91,3 +91,15 @@ i-- is the same as i = i - 1
 const sampleStr = "Alan said, \"Peter is learning JavaScript\".";
 Alan said, "Peter is learning JavaScript".
 ```
+
+
+# Escape Sequences in Strings
+* **Code	Output
+* \'	single quote
+* \"	double quote
+* \\	backslash
+* \n	newline
+* \r	carriage return
+* \t	tab
+* \b	word boundary
+* \f	form feed
