@@ -94,7 +94,7 @@ Alan said, "Peter is learning JavaScript".
 
 
 # Escape Sequences in Strings
-***Code	Output
+***Code	Output***
 * ```\'	single quote```
 * ```\"	double quote```
 * ```\\	backslash```
