@@ -174,11 +174,11 @@ alert(all);
 
 # Task 4.
 ```js
-let x= 6;
-let remX= x % 2;
-if (x== 0) {
+let x = 6;
+let remX = x % 2;
+if (x == 0) {
 alert("0")
-} else if (remX==0) {
+} else if (remX == 0) {
 alert("parne")
 } else {
 alert("neparne");
