@@ -103,3 +103,9 @@ Alan said, "Peter is learning JavaScript".
 * ```\t	tab```
 * ```\b	word boundary```
 * ```\f	form feed```
+
+# Task 2.Assign the following three lines of text into the single variable myStr using escape sequences.
+
+FirstLine
+    \SecondLine
+ThirdLine
