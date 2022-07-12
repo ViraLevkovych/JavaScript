@@ -106,6 +106,6 @@ Alan said, "Peter is learning JavaScript".
 
 # Task 2.Assign the following three lines of text into the single variable myStr using escape sequences.
 
-FirstLine
+```FirstLine
     \SecondLine
-ThirdLine
+ThirdLine```
