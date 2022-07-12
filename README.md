@@ -84,3 +84,10 @@ i-- is the same as i = i - 1
 17 % 2 = 1 (17 is Odd)  
 48 % 2 = 0 (48 is Even)  
 **const remainder = 11 % 3;**
+
+
+# Escaping Literal Quotes in Strings
+```js
+const sampleStr = "Alan said, \"Peter is learning JavaScript\".";
+Alan said, "Peter is learning JavaScript".
+```
