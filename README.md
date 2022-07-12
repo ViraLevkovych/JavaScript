@@ -179,8 +179,8 @@ let remX = x % 2;
 if (x == 0) {
 alert("0")
 } else if (remX == 0) {
-alert("parne")
+alert("even")
 } else {
-alert("neparne");
+alert("odd");
 }
 ```
